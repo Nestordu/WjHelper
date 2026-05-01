@@ -1,10 +1,66 @@
 {
   "meta": {
-    "last_scrape_at": "2026-04-30T02:11:14.927697+00:00",
+    "last_scrape_at": "2026-05-01T02:15:16.403468+00:00",
     "source": "TapTap 官方公告",
     "feed_url": "https://www.taptap.cn/app/521534/topic?type=official"
   },
   "codes": [
+    {
+      "code": "请查收～",
+      "reward": "",
+      "level_requirement": 9,
+      "level_note": "大熔炉等级大于等于9级",
+      "start_time": "2026-04-30T16:07:29+00:00",
+      "end_time": "2026-05-05T15:59:00+00:00",
+      "valid_until_display": "2026-05-05T23:59:00+08:00",
+      "other_requirements": "大熔炉等级大于等于9级",
+      "announcement_title": "内含兑换码 | 五一快乐，犒劳辛勤的你",
+      "topic_id": "51310915",
+      "source": "https://www.taptap.cn/moment/799067127913907570",
+      "date_added": "2026-05-01T02:14:58.325654+00:00"
+    },
+    {
+      "code": "劳动节666",
+      "reward": "",
+      "level_requirement": 9,
+      "level_note": "大熔炉等级大于等于9级",
+      "start_time": "2026-04-30T16:07:29+00:00",
+      "end_time": "2026-05-05T15:59:00+00:00",
+      "valid_until_display": "2026-05-05T23:59:00+08:00",
+      "other_requirements": "大熔炉等级大于等于9级",
+      "announcement_title": "内含兑换码 | 五一快乐，犒劳辛勤的你",
+      "topic_id": "51310915",
+      "source": "https://www.taptap.cn/moment/799067127913907570",
+      "date_added": "2026-05-01T02:14:58.325668+00:00"
+    },
+    {
+      "code": "一份",
+      "reward": "",
+      "level_requirement": 9,
+      "level_note": "大熔炉等级大于等于9级",
+      "start_time": "2026-04-30T16:07:29+00:00",
+      "end_time": "2026-05-05T15:59:00+00:00",
+      "valid_until_display": "2026-05-05T23:59:00+08:00",
+      "other_requirements": "大熔炉等级大于等于9级",
+      "announcement_title": "内含兑换码 | 五一快乐，犒劳辛勤的你",
+      "topic_id": "51310915",
+      "source": "https://www.taptap.cn/moment/799067127913907570",
+      "date_added": "2026-05-01T02:14:58.325634+00:00"
+    },
+    {
+      "code": "WJDR0430",
+      "reward": "",
+      "level_requirement": 9,
+      "level_note": "大熔炉等级大于等于9级",
+      "start_time": "2026-04-30T02:55:20+00:00",
+      "end_time": "2026-05-02T15:59:00+00:00",
+      "valid_until_display": "2026-05-02T23:59:00+08:00",
+      "other_requirements": "大熔炉等级大于等于9级",
+      "announcement_title": "活动预告 | 【筑梦的奇迹】即将开启",
+      "topic_id": "51290221",
+      "source": "https://www.taptap.cn/moment/798867777287881217",
+      "date_added": "2026-05-01T02:14:58.672242+00:00"
+    },
     {
       "code": "三月三安康",
       "reward": "",
