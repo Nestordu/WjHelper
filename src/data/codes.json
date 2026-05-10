@@ -1,10 +1,24 @@
 {
   "meta": {
-    "last_scrape_at": "2026-05-09T02:09:19.293134+00:00",
+    "last_scrape_at": "2026-05-10T02:10:35.855177+00:00",
     "source": "TapTap 官方公告",
     "feed_url": "https://www.taptap.cn/app/521534/topic?type=official"
   },
   "codes": [
+    {
+      "code": "5月10日母亲节",
+      "reward": "",
+      "level_requirement": 9,
+      "level_note": "大熔炉等级大于等于9级",
+      "start_time": "2026-05-09T07:32:58+00:00",
+      "end_time": "2026-05-11T15:59:00+00:00",
+      "valid_until_display": "2026-05-11T23:59:00+08:00",
+      "other_requirements": "大熔炉等级大于等于9级",
+      "announcement_title": "内含兑换码 | 妈妈的爱，从不设条件",
+      "topic_id": "51494422",
+      "source": "https://www.taptap.cn/moment/802199138040022550",
+      "date_added": "2026-05-10T02:10:13.806505+00:00"
+    },
     {
       "code": "请查收～",
       "reward": "",
