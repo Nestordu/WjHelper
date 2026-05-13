@@ -1,10 +1,24 @@
 {
   "meta": {
-    "last_scrape_at": "2026-05-12T02:14:18.494922+00:00",
+    "last_scrape_at": "2026-05-13T02:29:10.257421+00:00",
     "source": "TapTap 官方公告",
     "feed_url": "https://www.taptap.cn/app/521534/topic?type=official"
   },
   "codes": [
+    {
+      "code": "兑换码",
+      "reward": "",
+      "level_requirement": 9,
+      "level_note": "大熔炉等级大于等于9级",
+      "start_time": "2026-05-12T02:45:37+00:00",
+      "end_time": "2026-05-14T15:59:00+00:00",
+      "valid_until_display": "2026-05-14T23:59:00+08:00",
+      "other_requirements": "大熔炉等级大于等于9级",
+      "announcement_title": "内含兑换码 | 致敬白衣天使",
+      "topic_id": "51557030",
+      "source": "https://www.taptap.cn/moment/803213987171797421",
+      "date_added": "2026-05-13T02:28:52.558203+00:00"
+    },
     {
       "code": "5月10日母亲节",
       "reward": "",
