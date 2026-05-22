@@ -1,10 +1,24 @@
 {
   "meta": {
-    "last_scrape_at": "2026-05-20T02:36:00.907860+00:00",
+    "last_scrape_at": "2026-05-22T02:39:07.780321+00:00",
     "source": "TapTap 官方公告",
     "feed_url": "https://www.taptap.cn/app/521534/topic?type=official"
   },
   "codes": [
+    {
+      "code": "爱你爱你",
+      "reward": "",
+      "level_requirement": 9,
+      "level_note": "大熔炉等级大于等于9级",
+      "start_time": "2026-05-20T07:53:22+00:00",
+      "end_time": "2026-05-22T15:59:00+00:00",
+      "valid_until_display": "2026-05-22T23:59:00+08:00",
+      "other_requirements": "大熔炉等级大于等于9级",
+      "announcement_title": "内含兑换码 | 520，这份心意只给你",
+      "topic_id": "51711131",
+      "source": "https://www.taptap.cn/moment/806190538867870529",
+      "date_added": "2026-05-22T02:38:48.398612+00:00"
+    },
     {
       "code": "兑换码",
       "reward": "",
