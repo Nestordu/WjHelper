@@ -1,10 +1,24 @@
 {
   "meta": {
-    "last_scrape_at": "2026-05-29T02:33:21.567839+00:00",
+    "last_scrape_at": "2026-05-30T02:27:20.148991+00:00",
     "source": "TapTap 官方公告",
     "feed_url": "https://www.taptap.cn/app/521534/topic?type=official"
   },
   "codes": [
+    {
+      "code": "游戏圈400万",
+      "reward": "",
+      "level_requirement": 9,
+      "level_note": "大熔炉等级大于等于9级",
+      "start_time": "2026-05-29T07:15:17+00:00",
+      "end_time": "2026-05-31T15:59:00+00:00",
+      "valid_until_display": "2026-05-31T23:59:00+08:00",
+      "other_requirements": "大熔炉等级大于等于9级",
+      "announcement_title": "内含兑换码 | 游戏圈400万粉里程碑达成啦！",
+      "topic_id": "51887369",
+      "source": "https://www.taptap.cn/moment/809442443958160536",
+      "date_added": "2026-05-30T02:27:04.490012+00:00"
+    },
     {
       "code": "兑换码：WJDR梦境寻忆",
       "reward": "",
@@ -224,9 +238,9 @@
       "end_time": "",
       "valid_until_display": "",
       "other_requirements": "大熔炉等级大于等于9级",
-      "announcement_title": "感恩节的火炉已点燃，邀请您共赴这场盛宴！",
-      "topic_id": "47852991",
-      "source": "https://www.taptap.cn/moment/740880416667338397",
+      "announcement_title": "活动预告 | 圣诞钟声将至",
+      "topic_id": "48505315",
+      "source": "https://www.taptap.cn/moment/752118489300340484",
       "date_added": "2026-04-26T07:46:48.346356+00:00"
     },
     {
