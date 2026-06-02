@@ -1,10 +1,24 @@
 {
   "meta": {
-    "last_scrape_at": "2026-06-01T02:52:37.422072+00:00",
+    "last_scrape_at": "2026-06-02T02:49:44.107392+00:00",
     "source": "TapTap 官方公告",
     "feed_url": "https://www.taptap.cn/app/521534/topic?type=official"
   },
   "codes": [
+    {
+      "code": "六一快乐",
+      "reward": "",
+      "level_requirement": 9,
+      "level_note": "大熔炉等级大于等于9级",
+      "start_time": "2026-06-01T06:49:09+00:00",
+      "end_time": "2026-06-03T15:59:00+00:00",
+      "valid_until_display": "2026-06-03T23:59:00+08:00",
+      "other_requirements": "大熔炉等级大于等于9级",
+      "announcement_title": "内含兑换码｜六一快乐，童心不散场",
+      "topic_id": "51946746",
+      "source": "https://www.taptap.cn/moment/810523031196666410",
+      "date_added": "2026-06-02T02:49:26.458801+00:00"
+    },
     {
       "code": "哦！",
       "reward": "",
