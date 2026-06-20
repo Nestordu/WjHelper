@@ -1,10 +1,24 @@
 {
   "meta": {
-    "last_scrape_at": "2026-06-19T03:35:12.411088+00:00",
+    "last_scrape_at": "2026-06-20T02:39:08.807377+00:00",
     "source": "TapTap 官方公告",
     "feed_url": "https://www.taptap.cn/app/521534/topic?type=official"
   },
   "codes": [
+    {
+      "code": "端午安康",
+      "reward": "",
+      "level_requirement": 9,
+      "level_note": "大熔炉等级大于等于9级",
+      "start_time": "2026-06-19T06:50:48+00:00",
+      "end_time": "",
+      "valid_until_display": "",
+      "other_requirements": "大熔炉等级大于等于9级",
+      "announcement_title": "内含兑换码 | 粽香迎端午，安康伴领主！",
+      "topic_id": "52267336",
+      "source": "https://www.taptap.cn/moment/817046426440696504",
+      "date_added": "2026-06-20T02:38:49.402950+00:00"
+    },
     {
       "code": "六一快乐",
       "reward": "",
