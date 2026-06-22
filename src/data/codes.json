@@ -1,10 +1,24 @@
 {
   "meta": {
-    "last_scrape_at": "2026-06-21T02:55:39.242828+00:00",
+    "last_scrape_at": "2026-06-22T02:58:00.792508+00:00",
     "source": "TapTap 官方公告",
     "feed_url": "https://www.taptap.cn/app/521534/topic?type=official"
   },
   "codes": [
+    {
+      "code": "父亲节快乐",
+      "reward": "",
+      "level_requirement": 9,
+      "level_note": "大熔炉等级大于等于9级",
+      "start_time": "2026-06-21T07:41:03+00:00",
+      "end_time": "2026-06-23T15:59:00+00:00",
+      "valid_until_display": "2026-06-23T23:59:00+08:00",
+      "other_requirements": "大熔炉等级大于等于9级",
+      "announcement_title": "内含兑换码 | 致敬我们的超级英雄",
+      "topic_id": "52304731",
+      "source": "https://www.taptap.cn/moment/817783851483925033",
+      "date_added": "2026-06-22T02:57:44.827713+00:00"
+    },
     {
       "code": "端午安康",
       "reward": "",
