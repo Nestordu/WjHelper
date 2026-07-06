@@ -1,10 +1,24 @@
 {
   "meta": {
-    "last_scrape_at": "2026-07-05T02:23:01.739531+00:00",
+    "last_scrape_at": "2026-07-06T02:27:51.702995+00:00",
     "source": "TapTap 官方公告",
     "feed_url": "https://www.taptap.cn/app/521534/topic?type=official"
   },
   "codes": [
+    {
+      "code": "我爱运动",
+      "reward": "",
+      "level_requirement": 9,
+      "level_note": "大熔炉等级大于等于9级",
+      "start_time": "2026-07-05T11:54:20+00:00",
+      "end_time": "2026-07-08T15:59:00+00:00",
+      "valid_until_display": "2026-07-08T23:59:00+08:00",
+      "other_requirements": "大熔炉等级大于等于9级",
+      "announcement_title": "内含兑换码 | 周日来场雪地挥拍吧！",
+      "topic_id": "52548438",
+      "source": "https://www.taptap.cn/moment/822921022956110557",
+      "date_added": "2026-07-06T02:27:34.055367+00:00"
+    },
     {
       "code": "父亲节快乐",
       "reward": "",
