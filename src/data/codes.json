@@ -1,10 +1,38 @@
 {
   "meta": {
-    "last_scrape_at": "2026-07-09T02:09:56.238723+00:00",
+    "last_scrape_at": "2026-07-10T02:09:22.193422+00:00",
     "source": "TapTap 官方公告",
     "feed_url": "https://www.taptap.cn/app/521534/topic?type=official"
   },
   "codes": [
+    {
+      "code": "我爱足球结束时间：2026-07-11",
+      "reward": "",
+      "level_requirement": 9,
+      "level_note": "大熔炉等级大于等于9级",
+      "start_time": "2026-07-09T03:05:05+00:00",
+      "end_time": "",
+      "valid_until_display": "",
+      "other_requirements": "大熔炉等级大于等于9级",
+      "announcement_title": "活动预告 | 绿茵传奇活动即将开启",
+      "topic_id": "52609508",
+      "source": "https://www.taptap.cn/moment/824237383829422697",
+      "date_added": "2026-07-10T02:09:05.111193+00:00"
+    },
+    {
+      "code": "23:59:00",
+      "reward": "",
+      "level_requirement": 9,
+      "level_note": "大熔炉等级大于等于9级",
+      "start_time": "2026-07-09T03:05:05+00:00",
+      "end_time": "",
+      "valid_until_display": "",
+      "other_requirements": "大熔炉等级大于等于9级",
+      "announcement_title": "活动预告 | 绿茵传奇活动即将开启",
+      "topic_id": "52609508",
+      "source": "https://www.taptap.cn/moment/824237383829422697",
+      "date_added": "2026-07-10T02:09:05.111209+00:00"
+    },
     {
       "code": "我爱运动",
       "reward": "",
@@ -449,8 +477,8 @@
       "valid_until_display": "2026-01-07T23:59:00+08:00",
       "other_requirements": "大熔炉等级大于等于9级",
       "announcement_title": "内含兑换码 | 游戏圈370万粉里程碑达成啦！",
-      "topic_id": "48805365",
-      "source": "https://www.taptap.cn/moment/757258493592863438",
+      "topic_id": "48805465",
+      "source": "https://www.taptap.cn/moment/757260465041573493",
       "date_added": "2026-04-26T07:46:50.228286+00:00"
     },
     {
