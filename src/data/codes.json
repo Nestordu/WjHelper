@@ -1,10 +1,24 @@
 {
   "meta": {
-    "last_scrape_at": "2026-07-10T02:09:22.193422+00:00",
+    "last_scrape_at": "2026-07-11T01:55:07.231186+00:00",
     "source": "TapTap 官方公告",
     "feed_url": "https://www.taptap.cn/app/521534/topic?type=official"
   },
   "codes": [
+    {
+      "code": "无尽冬日CJ参展",
+      "reward": "",
+      "level_requirement": 9,
+      "level_note": "熔炉等级大于等于9级",
+      "start_time": "2026-07-10T10:41:19+00:00",
+      "end_time": "2026-07-12T15:59:00+00:00",
+      "valid_until_display": "2026-07-12T23:59:00+08:00",
+      "other_requirements": "熔炉等级大于等于9级",
+      "announcement_title": "抽奖活动 | ChinaJoy确认参展！答题冷知识",
+      "topic_id": "52645338",
+      "source": "https://www.taptap.cn/moment/824714586660801319",
+      "date_added": "2026-07-11T01:54:50.709627+00:00"
+    },
     {
       "code": "我爱足球结束时间：2026-07-11",
       "reward": "",
