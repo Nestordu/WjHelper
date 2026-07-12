@@ -1,10 +1,24 @@
 {
   "meta": {
-    "last_scrape_at": "2026-07-11T01:55:07.231186+00:00",
+    "last_scrape_at": "2026-07-12T01:58:28.171552+00:00",
     "source": "TapTap 官方公告",
     "feed_url": "https://www.taptap.cn/app/521534/topic?type=official"
   },
   "codes": [
+    {
+      "code": "海上平安",
+      "reward": "",
+      "level_requirement": 9,
+      "level_note": "大熔炉等级大于等于9级",
+      "start_time": "2026-07-11T07:14:12+00:00",
+      "end_time": "2026-07-13T15:59:00+00:00",
+      "valid_until_display": "2026-07-13T23:59:00+08:00",
+      "other_requirements": "大熔炉等级大于等于9级",
+      "announcement_title": "内含兑换码 | 和阿隆索一起扬帆出海吧！",
+      "topic_id": "52672280",
+      "source": "https://www.taptap.cn/moment/825024848907472259",
+      "date_added": "2026-07-12T01:58:11.927026+00:00"
+    },
     {
       "code": "无尽冬日CJ参展",
       "reward": "",
