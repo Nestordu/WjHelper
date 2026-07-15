@@ -1,10 +1,24 @@
 {
   "meta": {
-    "last_scrape_at": "2026-07-14T01:46:55.565888+00:00",
+    "last_scrape_at": "2026-07-15T01:43:18.691827+00:00",
     "source": "TapTap 官方公告",
     "feed_url": "https://www.taptap.cn/app/521534/topic?type=official"
   },
   "codes": [
+    {
+      "code": "银色约定",
+      "reward": "",
+      "level_requirement": 9,
+      "level_note": "大熔炉等级大于等于9级",
+      "start_time": "2026-07-14T07:15:59+00:00",
+      "end_time": "2026-07-16T15:59:00+00:00",
+      "valid_until_display": "2026-07-16T23:59:00+08:00",
+      "other_requirements": "大熔炉等级大于等于9级",
+      "announcement_title": "内含兑换码 | 将一枚约定戴在指尖",
+      "topic_id": "52744402",
+      "source": "https://www.taptap.cn/moment/826112462750222153",
+      "date_added": "2026-07-15T01:43:03.035524+00:00"
+    },
     {
       "code": "海上平安",
       "reward": "",
