@@ -1,10 +1,24 @@
 {
   "meta": {
-    "last_scrape_at": "2026-07-19T01:55:56.414855+00:00",
+    "last_scrape_at": "2026-07-20T03:23:12.821887+00:00",
     "source": "TapTap 官方公告",
     "feed_url": "https://www.taptap.cn/app/521534/topic?type=official"
   },
   "codes": [
+    {
+      "code": "兑换码：WJDR幻艺展馆",
+      "reward": "",
+      "level_requirement": 9,
+      "level_note": "大熔炉等级大于等于9级",
+      "start_time": "2026-07-20T02:31:17+00:00",
+      "end_time": "2026-07-22T15:59:00+00:00",
+      "valid_until_display": "2026-07-22T23:59:00+08:00",
+      "other_requirements": "大熔炉等级大于等于9级",
+      "announcement_title": "更新公告 | 2026年7月21日更新公告",
+      "topic_id": "52870655",
+      "source": "https://www.taptap.cn/moment/828215143216186780",
+      "date_added": "2026-07-20T03:22:55.519107+00:00"
+    },
     {
       "code": "银色约定",
       "reward": "",
