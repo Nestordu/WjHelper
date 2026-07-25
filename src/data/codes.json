@@ -1,10 +1,24 @@
 {
   "meta": {
-    "last_scrape_at": "2026-07-24T01:57:07.288192+00:00",
+    "last_scrape_at": "2026-07-25T01:56:41.654207+00:00",
     "source": "TapTap 官方公告",
     "feed_url": "https://www.taptap.cn/app/521534/topic?type=official"
   },
   "codes": [
+    {
+      "code": "游戏圈410万",
+      "reward": "",
+      "level_requirement": 9,
+      "level_note": "大熔炉等级大于等于9级",
+      "start_time": "2026-07-24T10:39:07+00:00",
+      "end_time": "2026-07-26T15:59:00+00:00",
+      "valid_until_display": "2026-07-26T23:59:00+08:00",
+      "other_requirements": "大熔炉等级大于等于9级",
+      "announcement_title": "内含兑换码 | 游戏圈410万粉里程碑达成啦！",
+      "topic_id": "52964204",
+      "source": "https://www.taptap.cn/moment/829787462371903366",
+      "date_added": "2026-07-25T01:56:23.095086+00:00"
+    },
     {
       "code": "兑换码：WJDR幻艺展馆",
       "reward": "",
