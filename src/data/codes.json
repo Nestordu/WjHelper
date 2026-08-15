@@ -1,10 +1,80 @@
 {
   "meta": {
-    "last_scrape_at": "2026-08-14T01:14:56.761402+00:00",
+    "last_scrape_at": "2026-08-15T00:46:56.452386+00:00",
     "source": "TapTap 官方公告",
     "feed_url": "https://www.taptap.cn/app/521534/topic?type=official"
   },
   "codes": [
+    {
+      "code": "记住它们",
+      "reward": "",
+      "level_requirement": 0,
+      "level_note": "",
+      "start_time": "2026-08-14T03:03:00+00:00",
+      "end_time": "2026-08-16T15:59:00+00:00",
+      "valid_until_display": "2026-08-16T23:59:00+08:00",
+      "other_requirements": "以游戏内公告为准",
+      "announcement_title": "内含兑换码 | 长鼻卷起星光，温柔自有回响",
+      "topic_id": "53392480",
+      "source": "https://www.taptap.cn/moment/837282819527937166",
+      "date_added": "2026-08-15T00:46:38.535119+00:00"
+    },
+    {
+      "code": "看见它们",
+      "reward": "",
+      "level_requirement": 0,
+      "level_note": "",
+      "start_time": "2026-08-14T03:03:00+00:00",
+      "end_time": "2026-08-16T15:59:00+00:00",
+      "valid_until_display": "2026-08-16T23:59:00+08:00",
+      "other_requirements": "以游戏内公告为准",
+      "announcement_title": "内含兑换码 | 长鼻卷起星光，温柔自有回响",
+      "topic_id": "53392480",
+      "source": "https://www.taptap.cn/moment/837282819527937166",
+      "date_added": "2026-08-15T00:46:38.535101+00:00"
+    },
+    {
+      "code": "更能兑换一份心意：从此刻起",
+      "reward": "",
+      "level_requirement": 0,
+      "level_note": "",
+      "start_time": "2026-08-14T03:03:00+00:00",
+      "end_time": "2026-08-16T15:59:00+00:00",
+      "valid_until_display": "2026-08-16T23:59:00+08:00",
+      "other_requirements": "以游戏内公告为准",
+      "announcement_title": "内含兑换码 | 长鼻卷起星光，温柔自有回响",
+      "topic_id": "53392480",
+      "source": "https://www.taptap.cn/moment/837282819527937166",
+      "date_added": "2026-08-15T00:46:38.535079+00:00"
+    },
+    {
+      "code": "守护它们。",
+      "reward": "",
+      "level_requirement": 0,
+      "level_note": "",
+      "start_time": "2026-08-14T03:03:00+00:00",
+      "end_time": "2026-08-16T15:59:00+00:00",
+      "valid_until_display": "2026-08-16T23:59:00+08:00",
+      "other_requirements": "以游戏内公告为准",
+      "announcement_title": "内含兑换码 | 长鼻卷起星光，温柔自有回响",
+      "topic_id": "53392480",
+      "source": "https://www.taptap.cn/moment/837282819527937166",
+      "date_added": "2026-08-15T00:46:38.535138+00:00"
+    },
+    {
+      "code": "不只兑换一份薄礼",
+      "reward": "",
+      "level_requirement": 0,
+      "level_note": "",
+      "start_time": "2026-08-14T03:03:00+00:00",
+      "end_time": "2026-08-16T15:59:00+00:00",
+      "valid_until_display": "2026-08-16T23:59:00+08:00",
+      "other_requirements": "以游戏内公告为准",
+      "announcement_title": "内含兑换码 | 长鼻卷起星光，温柔自有回响",
+      "topic_id": "53392480",
+      "source": "https://www.taptap.cn/moment/837282819527937166",
+      "date_added": "2026-08-15T00:46:38.535052+00:00"
+    },
     {
       "code": "燃起来了[/b]",
       "reward": "",
