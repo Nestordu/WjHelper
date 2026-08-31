@@ -1,10 +1,24 @@
 {
   "meta": {
-    "last_scrape_at": "2026-08-30T02:46:03.637008+00:00",
+    "last_scrape_at": "2026-08-31T02:39:30.790754+00:00",
     "source": "TapTap 官方公告",
     "feed_url": "https://www.taptap.cn/app/521534/topic?type=official"
   },
   "codes": [
+    {
+      "code": "周末快乐",
+      "reward": "",
+      "level_requirement": 9,
+      "level_note": "大熔炉等级达到9级",
+      "start_time": "2026-08-30T10:53:11+00:00",
+      "end_time": "2026-09-01T15:59:00+00:00",
+      "valid_until_display": "2026-09-01T23:59:00+08:00",
+      "other_requirements": "大熔炉等级达到9级",
+      "announcement_title": "内含兑换码 | 周末到，礼到，心意到",
+      "topic_id": "53730380",
+      "source": "https://www.taptap.cn/moment/843199351592322091",
+      "date_added": "2026-08-31T02:39:12.045541+00:00"
+    },
     {
       "code": "七夕节活动预告",
       "reward": "",
