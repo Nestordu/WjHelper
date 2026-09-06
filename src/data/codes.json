@@ -1,10 +1,38 @@
 {
   "meta": {
-    "last_scrape_at": "2026-09-05T02:15:10.229833+00:00",
+    "last_scrape_at": "2026-09-06T02:10:51.793686+00:00",
     "source": "TapTap 官方公告",
     "feed_url": "https://www.taptap.cn/app/521534/topic?type=official"
   },
   "codes": [
+    {
+      "code": "都成为照亮他人的微光。",
+      "reward": "",
+      "level_requirement": 9,
+      "level_note": "大熔炉等级达到9级",
+      "start_time": "2026-09-05T06:33:48+00:00",
+      "end_time": "2026-09-07T15:59:00+00:00",
+      "valid_until_display": "2026-09-07T23:59:00+08:00",
+      "other_requirements": "大熔炉等级达到9级",
+      "announcement_title": "内含兑换码 | 以善之名，共赴温暖之约",
+      "topic_id": "53821879",
+      "source": "https://www.taptap.cn/moment/845308401943577471",
+      "date_added": "2026-09-06T02:10:33.012908+00:00"
+    },
+    {
+      "code": "也能传递一份善意。让每一次力所能及的帮助",
+      "reward": "",
+      "level_requirement": 9,
+      "level_note": "大熔炉等级达到9级",
+      "start_time": "2026-09-05T06:33:48+00:00",
+      "end_time": "2026-09-07T15:59:00+00:00",
+      "valid_until_display": "2026-09-07T23:59:00+08:00",
+      "other_requirements": "大熔炉等级达到9级",
+      "announcement_title": "内含兑换码 | 以善之名，共赴温暖之约",
+      "topic_id": "53821879",
+      "source": "https://www.taptap.cn/moment/845308401943577471",
+      "date_added": "2026-09-06T02:10:33.012900+00:00"
+    },
     {
       "code": "周末快乐",
       "reward": "",
@@ -92,8 +120,8 @@
     {
       "code": "不只兑换一份薄礼",
       "reward": "",
-      "level_requirement": 0,
-      "level_note": "",
+      "level_requirement": 9,
+      "level_note": "大熔炉等级达到9级",
       "start_time": "2026-08-14T03:03:00+00:00",
       "end_time": "2026-08-16T15:59:00+00:00",
       "valid_until_display": "2026-08-16T23:59:00+08:00",
