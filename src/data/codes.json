@@ -1,10 +1,52 @@
 {
   "meta": {
-    "last_scrape_at": "2026-09-10T02:22:32.673257+00:00",
+    "last_scrape_at": "2026-09-11T02:17:44.782621+00:00",
     "source": "TapTap 官方公告",
     "feed_url": "https://www.taptap.cn/app/521534/topic?type=official"
   },
   "codes": [
+    {
+      "code": "指引方向的老师。",
+      "reward": "",
+      "level_requirement": 0,
+      "level_note": "",
+      "start_time": "2026-09-10T06:41:22+00:00",
+      "end_time": "2026-09-12T15:59:00+00:00",
+      "valid_until_display": "2026-09-12T23:59:00+08:00",
+      "other_requirements": "以游戏内公告为准",
+      "announcement_title": "内含兑换码 | 一支粉笔，点亮万千星光",
+      "topic_id": "53899391",
+      "source": "https://www.taptap.cn/moment/847122246076989535",
+      "date_added": "2026-09-11T02:17:25.135843+00:00"
+    },
+    {
+      "code": "也能捎去一句真挚的感谢：谢谢每一位曾为我们答疑解惑",
+      "reward": "",
+      "level_requirement": 0,
+      "level_note": "",
+      "start_time": "2026-09-10T06:41:22+00:00",
+      "end_time": "2026-09-12T15:59:00+00:00",
+      "valid_until_display": "2026-09-12T23:59:00+08:00",
+      "other_requirements": "以游戏内公告为准",
+      "announcement_title": "内含兑换码 | 一支粉笔，点亮万千星光",
+      "topic_id": "53899391",
+      "source": "https://www.taptap.cn/moment/847122246076989535",
+      "date_added": "2026-09-11T02:17:25.135826+00:00"
+    },
+    {
+      "code": "不只带来一份薄礼",
+      "reward": "",
+      "level_requirement": 0,
+      "level_note": "",
+      "start_time": "2026-09-10T06:41:22+00:00",
+      "end_time": "2026-09-12T15:59:00+00:00",
+      "valid_until_display": "2026-09-12T23:59:00+08:00",
+      "other_requirements": "以游戏内公告为准",
+      "announcement_title": "内含兑换码 | 一支粉笔，点亮万千星光",
+      "topic_id": "53899391",
+      "source": "https://www.taptap.cn/moment/847122246076989535",
+      "date_added": "2026-09-11T02:17:25.135805+00:00"
+    },
     {
       "code": "都成为照亮他人的微光。",
       "reward": "",
