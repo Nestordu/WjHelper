@@ -1,10 +1,24 @@
 {
   "meta": {
-    "last_scrape_at": "2026-09-19T02:28:45.246685+00:00",
+    "last_scrape_at": "2026-09-20T02:39:38.073515+00:00",
     "source": "TapTap 官方公告",
     "feed_url": "https://www.taptap.cn/app/521534/topic?type=official"
   },
   "codes": [
+    {
+      "code": "中秋节活动预告",
+      "reward": "",
+      "level_requirement": 9,
+      "level_note": "大熔炉等级不低于9级",
+      "start_time": "2026-09-20T02:21:08+00:00",
+      "end_time": "2026-09-22T15:59:00+00:00",
+      "valid_until_display": "2026-09-22T23:59:00+08:00",
+      "other_requirements": "大熔炉等级不低于9级",
+      "announcement_title": "活动预告 | 【明月的盛典】活动即将开启",
+      "topic_id": "54075155",
+      "source": "https://www.taptap.cn/moment/850680634467683490",
+      "date_added": "2026-09-20T02:39:14.928554+00:00"
+    },
     {
       "code": "】来领取福利；",
       "reward": "",
