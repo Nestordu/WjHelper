@@ -1,10 +1,24 @@
 {
   "meta": {
-    "last_scrape_at": "2026-09-25T02:45:34.901870+00:00",
+    "last_scrape_at": "2026-09-26T02:48:26.971647+00:00",
     "source": "TapTap 官方公告",
     "feed_url": "https://www.taptap.cn/app/521534/topic?type=official"
   },
   "codes": [
+    {
+      "code": "月圆共此时[/b]",
+      "reward": "",
+      "level_requirement": 9,
+      "level_note": "大熔炉等级达到9级",
+      "start_time": "2026-09-25T06:40:58+00:00",
+      "end_time": "2026-09-27T15:59:00+00:00",
+      "valid_until_display": "2026-09-27T23:59:00+08:00",
+      "other_requirements": "大熔炉等级达到9级",
+      "announcement_title": "内含兑换码 | 月映冰原，团圆共此时",
+      "topic_id": "54169376",
+      "source": "https://www.taptap.cn/moment/852557966149160921",
+      "date_added": "2026-09-26T02:48:08.983147+00:00"
+    },
     {
       "code": "中秋节活动预告",
       "reward": "",
