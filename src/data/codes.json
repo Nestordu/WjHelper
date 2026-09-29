@@ -1,10 +1,24 @@
 {
   "meta": {
-    "last_scrape_at": "2026-09-28T02:50:17.871434+00:00",
+    "last_scrape_at": "2026-09-29T03:31:19.459270+00:00",
     "source": "TapTap 官方公告",
     "feed_url": "https://www.taptap.cn/app/521534/topic?type=official"
   },
   "codes": [
+    {
+      "code": "国庆节活动预告[/b]",
+      "reward": "",
+      "level_requirement": 9,
+      "level_note": "大熔炉等级不低于9级",
+      "start_time": "2026-09-29T02:29:28+00:00",
+      "end_time": "",
+      "valid_until_display": "",
+      "other_requirements": "大熔炉等级不低于9级",
+      "announcement_title": "活动预告｜绣球对碰赢奇珍，辉煌盛世庆典即将开启！",
+      "topic_id": "54237124",
+      "source": "https://www.taptap.cn/moment/853944222066148516",
+      "date_added": "2026-09-29T03:30:58.717844+00:00"
+    },
     {
       "code": "月圆共此时[/b]",
       "reward": "",
@@ -667,14 +681,14 @@
       "code": "哦~",
       "reward": "",
       "level_requirement": 9,
-      "level_note": "大熔炉等级大于等于9级",
+      "level_note": "大熔炉等级不低于9级",
       "start_time": "2026-02-13T15:54:03+00:00",
       "end_time": "",
       "valid_until_display": "",
-      "other_requirements": "大熔炉等级大于等于9级",
-      "announcement_title": "活动预告 | 金玉交辉，迎接春日庆典吧！",
-      "topic_id": "49731279",
-      "source": "https://www.taptap.cn/moment/771522269137600724",
+      "other_requirements": "大熔炉等级不低于9级",
+      "announcement_title": "活动预告｜绣球对碰赢奇珍，辉煌盛世庆典即将开启！",
+      "topic_id": "54237124",
+      "source": "https://www.taptap.cn/moment/853944222066148516",
       "date_added": "2026-04-26T07:46:48.346356+00:00"
     },
     {
