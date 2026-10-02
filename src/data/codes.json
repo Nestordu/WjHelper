@@ -1,10 +1,24 @@
 {
   "meta": {
-    "last_scrape_at": "2026-10-01T03:22:41.704011+00:00",
+    "last_scrape_at": "2026-10-02T03:23:32.824659+00:00",
     "source": "TapTap 官方公告",
     "feed_url": "https://www.taptap.cn/app/521534/topic?type=official"
   },
   "codes": [
+    {
+      "code": "可别拖太久！",
+      "reward": "",
+      "level_requirement": 9,
+      "level_note": "大熔炉等级达到9级",
+      "start_time": "2026-10-01T06:18:26+00:00",
+      "end_time": "2026-10-07T15:59:00+00:00",
+      "valid_until_display": "2026-10-07T23:59:00+08:00",
+      "other_requirements": "大熔炉等级达到9级",
+      "announcement_title": "内含兑换码 | 国庆假期已加载，冰原模式启动！",
+      "topic_id": "54280574",
+      "source": "https://www.taptap.cn/moment/854726619938423595",
+      "date_added": "2026-10-02T03:23:06.821751+00:00"
+    },
     {
       "code": "国庆节活动预告[/b]",
       "reward": "",
