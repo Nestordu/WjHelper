@@ -1,10 +1,24 @@
 {
   "meta": {
-    "last_scrape_at": "2026-10-09T03:53:56.468871+00:00",
+    "last_scrape_at": "2026-10-10T03:37:32.384726+00:00",
     "source": "TapTap 官方公告",
     "feed_url": "https://www.taptap.cn/app/521534/topic?type=official"
   },
   "codes": [
+    {
+      "code": "冰原来信[/b]",
+      "reward": "",
+      "level_requirement": 9,
+      "level_note": "大熔炉等级达到9级",
+      "start_time": "2026-10-09T10:21:40+00:00",
+      "end_time": "2026-10-11T15:59:00+00:00",
+      "valid_until_display": "2026-10-11T23:59:00+08:00",
+      "other_requirements": "大熔炉等级达到9级",
+      "announcement_title": "内含兑换码 | 一封来信，送达冰原的温暖",
+      "topic_id": "54416259",
+      "source": "https://www.taptap.cn/moment/857686935437576618",
+      "date_added": "2026-10-10T03:37:10.911040+00:00"
+    },
     {
       "code": "可别拖太久！",
       "reward": "",
