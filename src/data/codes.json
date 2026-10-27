@@ -1,10 +1,24 @@
 {
   "meta": {
-    "last_scrape_at": "2026-10-25T02:32:35.435139+00:00",
+    "last_scrape_at": "2026-10-27T03:06:35.390364+00:00",
     "source": "TapTap 官方公告",
     "feed_url": "https://www.taptap.cn/app/521534/topic?type=official"
   },
   "codes": [
+    {
+      "code": "万圣节活动预告[/b]",
+      "reward": "",
+      "level_requirement": 9,
+      "level_note": "大熔炉等级不低于9级",
+      "start_time": "2026-10-25T20:03:10+00:00",
+      "end_time": "",
+      "valid_until_display": "",
+      "other_requirements": "大熔炉等级不低于9级",
+      "announcement_title": "活动预告｜“南瓜精怪”凶猛来袭！",
+      "topic_id": "54730071",
+      "source": "https://www.taptap.cn/moment/863631478817294438",
+      "date_added": "2026-10-27T03:06:14.314925+00:00"
+    },
     {
       "code": "登高望远[/b]",
       "reward": "",
