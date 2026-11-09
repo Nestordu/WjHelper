@@ -1,10 +1,24 @@
 {
   "meta": {
-    "last_scrape_at": "2026-11-06T04:28:56.290633+00:00",
+    "last_scrape_at": "2026-11-09T03:53:13.279688+00:00",
     "source": "TapTap 官方公告",
     "feed_url": "https://www.taptap.cn/app/521534/topic?type=official"
   },
   "codes": [
+    {
+      "code": "无尽冬日[/b]",
+      "reward": "",
+      "level_requirement": 9,
+      "level_note": "大熔炉等级达到9级",
+      "start_time": "2026-11-06T08:02:30+00:00",
+      "end_time": "2026-11-08T15:59:00+00:00",
+      "valid_until_display": "2026-11-08T23:59:00+08:00",
+      "other_requirements": "大熔炉等级达到9级",
+      "announcement_title": "内含兑换码｜秋天最后一天，来领一份入冬礼吧~",
+      "topic_id": "54949292",
+      "source": "https://www.taptap.cn/moment/867798774716564226",
+      "date_added": "2026-11-09T03:52:50.683544+00:00"
+    },
     {
       "code": "万圣节活动预告[/b]",
       "reward": "",
