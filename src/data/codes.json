@@ -1,10 +1,38 @@
 {
   "meta": {
-    "last_scrape_at": "2026-11-22T04:21:02.922374+00:00",
+    "last_scrape_at": "2026-11-23T04:58:26.507160+00:00",
     "source": "TapTap 官方公告",
     "feed_url": "https://www.taptap.cn/app/521534/topic?type=official"
   },
   "codes": [
+    {
+      "code": "[b]兑换码：丰收与欢宴[/b]",
+      "reward": "",
+      "level_requirement": 9,
+      "level_note": "大熔炉等级不低于9级",
+      "start_time": "2026-11-23T03:52:25+00:00",
+      "end_time": "",
+      "valid_until_display": "",
+      "other_requirements": "大熔炉等级不低于9级",
+      "announcement_title": "活动预告｜【丰收与欢宴】活动即将开启",
+      "topic_id": "55245662",
+      "source": "https://www.taptap.cn/moment/873896432917023676",
+      "date_added": "2026-11-23T04:58:02.903960+00:00"
+    },
+    {
+      "code": "[b]兑换码：火晶时代资料片[/b]",
+      "reward": "",
+      "level_requirement": 9,
+      "level_note": "大熔炉等级大于等于9级",
+      "start_time": "2026-11-22T04:32:53+00:00",
+      "end_time": "2026-11-24T15:59:00+00:00",
+      "valid_until_display": "2026-11-24T23:59:00+08:00",
+      "other_requirements": "大熔炉等级大于等于9级",
+      "announcement_title": "更新公告丨三大新增内容抢先看！",
+      "topic_id": "55228452",
+      "source": "https://www.taptap.cn/moment/873544225927465387",
+      "date_added": "2026-11-23T04:58:03.330181+00:00"
+    },
     {
       "code": "无尽冬日[/b]",
       "reward": "",
